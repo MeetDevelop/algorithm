@@ -1,6 +1,5 @@
 package cn.meetdevelop.linkedList;
 
-import sun.awt.image.ImageWatched;
 
 /**
  * description: LinkedList
@@ -225,7 +224,6 @@ public class LinkedList<E> {
         linkedList.removeLast();
         System.out.println(linkedList);
     }
-
 
 
 }
